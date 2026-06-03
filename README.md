@@ -18,6 +18,12 @@ Restart OpenCode after changing skills or config.
 
 ## Install On Another Device
 
+Install the skill with:
+
+```sh
+npx skills add jemanuelp/judgment-day
+```
+
 Clone this project and either run OpenCode from the project directory, or add the cloned `skills` directory to your global OpenCode config:
 
 ```json
